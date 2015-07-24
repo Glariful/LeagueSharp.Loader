@@ -100,7 +100,6 @@ namespace LeagueSharp.Loader.Class
             pass = pass.Replace("!", "&#33;");
             pass = pass.Replace("$", "&#036;");
             pass = pass.Replace("\"", "&quot;");
-            pass = pass.Replace("\"", "&quot;");
             pass = pass.Replace("<", "&lt;");
             pass = pass.Replace(">", "&gt;");
             pass = pass.Replace("'", "&#39;");
